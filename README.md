@@ -23,3 +23,11 @@ Tools: Google Colab, Kaggle Datasets
 MNIST Dataset
 
 Cats vs Dogs Dataset
+
+**RESULTS**
+<img width="649" height="525" alt="GRAP" src="https://github.com/user-attachments/assets/632a288f-f0a7-47c2-90e6-653c7a39cf2e" />
+
+<img width="567" height="432" alt="GRA" src="https://github.com/user-attachments/assets/645cced1-5951-45d9-a4f7-2b6273cdabce" />
+
+<img width="567" height="455" alt="GRAPH" src="https://github.com/user-attachments/assets/71c1ea3e-280a-4522-8525-f732d03ed573" />
+
